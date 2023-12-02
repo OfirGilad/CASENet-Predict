@@ -16,6 +16,7 @@ We used the official benchmark codes for evaluation provided by [Semantic Contou
 # CASENet-Predict
 
 Original GitHub: https://github.com/merlresearch/CASENet
+
 Original Weights Path: https://drive.google.com/drive/folders/1zxshISZtq0_S6zFB37F-FhE9wT1ZBrGK
 
 ## Steps for running the script:
